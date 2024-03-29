@@ -1,23 +1,11 @@
-[
-    {
-      "value": "Andhra Pradesh",
-      "label": "Andhra Pradesh"
-    },
-    {
-      "value": "Arunachal Pradesh",
-      "label": "Arunachal Pradesh"
-    },
-    {
-      "value": "Assam",
-      "label": "Assam"
-    },
-    {
-      "value": "Bihar",
-      "label": "Bihar"
-    },
-    {
-      "value": "Chhattisgarh",
-      "label": "Chhattisgarh"
-    }
-    ]
-  
+{
+  "name" : "LearnBestCoding",
+  "website" : "www.learnbestcoding.com",
+  "email" : "something@learnbestcoding.com",
+  "country" :[
+      {"id": "1", "name" : "USA"},
+      {"id": "2", "name" : "Canada"},
+      {"id": "3", "name" : "Japan"},
+      {"id": "4", "name" : "Australia"}
+  ]
+}
